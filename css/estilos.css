@@ -1,3 +1,60 @@
-h1{
-    color: #4C4C6D;
+h1{color: #4C4C6D;
+    text-align: center;
+}
+div.contenedor{
+    border: 1px ;
+    width: 1200px;
+    height: 100%;
+    background-color: #F3F1F5;
+    margin: 0 auto;
+    
+}
+
+
+div.card{
+
+width: 350px;
+height: 650px;
+background-color: #bee5d3;
+float: left;
+margin-top: 36px;
+margin-left: 35px;
+
+}
+
+div.card2{
+
+width: 350px;
+height: 650px;
+background-color: #bee5d3;
+float: left;
+margin-top: 18px;
+margin-left: 35px;
+
+
+}
+
+div.card3{
+
+width: 350px;
+height: 650px;
+background-color: #bee5d3;
+float: left;
+margin-left: 35px;
+
+
+}
+h2{
+text-align: center;
+
+}
+p{
+text-align: justify;
+margin-left:20px;
+margin-top:30px;
+margin-right:20px;
+}
+
+img{
+border-radius: 10px;
 }
