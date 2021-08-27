@@ -1,3 +1,16 @@
 h1{
     color: #4C4C6D;
-}
+    h1{
+        color: #4C4C6D;
+    }
+
+    #pie{
+  
+        clear:both;
+         background:#C490E4;
+         height:40px;
+      margin-top: 30px;
+      margin-right: 20px;
+      margin: 10px;
+      text-align:center;
+       }
